@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Satoshi Dreams Cover](public/cover.png)
 
-## Getting Started
+# Satoshi Dreams
 
-First, run the development server:
+> What could Satoshi buy today?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Satoshi Dreams is an open source visual experiment imagining what could happen if Satoshi Nakamoto suddenly came back with access to the legendary 1 million BTC.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Planes. Countries. Football clubs. Castles. Rockets. Entire companies. Ridiculous things. Beautiful things.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project transforms the scale of Bitcoin into a playful and shareable exploration experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## What is this?
 
-## Learn More
+Satoshi Dreams is not a financial simulator.
 
-To learn more about Next.js, take a look at the following resources:
+It is a satirical and artistic project inspired by internet culture, Bitcoin mythology, design, and imagination.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Users can explore absurd purchases, save personal collections locally in the browser, and share them with friends.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Features
 
-## Deploy on Vercel
+- Explore iconic and absurd items
+- Save personal collections locally
+- Beautiful editorial-style illustrations
+- Shareable item pages
+- Open source and community-driven
+- Multi-language support
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Categories
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Countries
+- Islands
+- Cars
+- Rockets
+- Art
+- Football clubs
+- Cities
+- Jets
+- Yachts
+- Completely absurd ideas
+
+## Philosophy
+
+Bitcoin belongs to internet culture.
+
+Satoshi Dreams does too.
+
+## Open Source
+
+Contributions are welcome.
+
+You can help by:
+
+- adding new items
+- improving illustrations
+- translating content
+- fixing UI details
+- improving accessibility
+- proposing absurd ideas
+
+## Disclaimer
+
+This project is fictional, satirical, and artistic.
+
+Nothing here should be interpreted as financial advice or real valuation data.
+
+## License
+
+MIT
