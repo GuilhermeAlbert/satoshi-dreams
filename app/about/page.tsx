@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import { siteCopy } from "@/data/site";
-import { HomePage } from "./_components/home/home-page";
+import { AboutPage } from "./_components/about-page";
 
 export const metadata: Metadata = {
-  title: siteCopy.en.title,
-  description: siteCopy.en.description,
+  title: siteCopy.en.nav.about,
+  description: siteCopy.en.about.intro,
 };
 
 export default function Page() {
-  return <HomePage />;
+  return <AboutPage />;
 }
